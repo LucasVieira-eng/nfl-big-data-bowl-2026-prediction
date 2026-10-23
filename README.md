@@ -7,9 +7,9 @@ Competition: https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-predicti
 ## Setup
 
 ```bash
-python -m venv .venv && source .venv/bin/activate
+python -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
-```
 
 ```bash
 kaggle competitions download -c nfl-big-data-bowl-2026-prediction -p data/raw
