@@ -25,7 +25,6 @@ notebooks/         exploration
 src/               reusable code
 scripts/           training / submission scripts
 models/            saved models (not committed)
-submissions/       submission files (not committed)
 reports/           notes, figures
 ```
 
