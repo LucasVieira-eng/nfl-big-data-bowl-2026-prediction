@@ -12,8 +12,8 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 ```bash
-kaggle competitions download -c nfl-big-data-bowl-2026-prediction -p data/raw
-unzip data/raw/nfl-big-data-bowl-2026-prediction.zip -d data/raw
+kaggle competitions download -c nfl-big-data-bowl-2026-prediction -p data
+unzip data/raw/nfl-big-data-bowl-2026-prediction.zip -d data
 ```
 
 ## Layout
