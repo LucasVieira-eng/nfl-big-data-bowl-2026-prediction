@@ -7,3 +7,6 @@ matplotlib
 jupyter
 kaggle
 tqdm
+polars
+grpcio
+protobuf
