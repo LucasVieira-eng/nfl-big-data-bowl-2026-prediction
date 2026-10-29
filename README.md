@@ -19,8 +19,9 @@ unzip data/raw/nfl-big-data-bowl-2026-prediction.zip -d data
 ## Layout
 
 ```
-data/raw/          original Kaggle files (not committed)
-data/processed/    derived tables (not committed)
+data               original Kaggle files (not committed)
+data/train         original Kaggle files (not committed)
+data/processed     processed tables (not committed)
 notebooks/         exploration
 src/               reusable code
 scripts/           training / submission scripts
